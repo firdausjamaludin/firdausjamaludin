@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @firdausjamaludin
 - 👀 I’m interested in learning programming in order to change career into IT
-- 🌱 I’m currently learning javascript, HTML, CSS & Phyton.
+- 🌱 I’m currently learning JavaScript, HTML, CSS & Phyton.
 - 📫 How to reach me ...
 
 
